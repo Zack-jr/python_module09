@@ -57,7 +57,7 @@ def main():
                                     duration_minutes=45,
                                     witness_count=5,
                                     message_received=("Greetings from"
-                                                      "Zeta Reticuli"),
+                                                      " Zeta Reticuli"),
                                     is_verified=False)
 
         print("Valid contact report:")
